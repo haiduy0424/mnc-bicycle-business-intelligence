@@ -4,7 +4,7 @@ A data analytics and business intelligence project focused on evaluating sales p
 
 The project combines **Power BI visualization, customer segmentation, statistical analysis, and forecasting techniques** to transform historical business data into practical insights for strategic decision-making.
 
-## Project Objectives
+## 1. Project Objectives
 
 The analysis was designed to answer several key business questions:
 
@@ -15,7 +15,7 @@ The analysis was designed to answer several key business questions:
 - Which customer groups generate the highest business value?
 - What can historical sales patterns indicate about future performance?
 
-## Key Areas of Analysis
+## 2. Key Areas of Analysis
 
 ### Sales Performance
 Evaluation of historical revenue, profitability, sales growth, product contribution, and changes in product mix across 2017–2019.
@@ -36,7 +36,7 @@ The analysis evaluates market size, sales growth, volatility, customer value, de
 
 ### Customer Segmentation
 
-Customer behavior is analyzed using an extended **LRFM framework**:
+Customer behavior is analyzed using an extended LRFM framework:
 
 - **Length** — duration of the customer relationship
 - **Recency** — time since the latest purchase
@@ -58,9 +58,9 @@ Methods include:
 
 The VAR models incorporate relationships between bicycle sales and related gear sales to improve the forecasting framework. :contentReference[oaicite:2]{index=2}
 
-## Key Business Insights
+## 3. Key Business Insights
 
-- Sales reached approximately **$16.35 million in 2019**, representing a significant expansion compared with previous years.
+- Sales reached approximately $16.35 million in 2019, representing a significant expansion compared with previous years.
 - Mountain Bikes became a major growth driver, while Touring Bikes developed into a promising new revenue stream.
 - Australia demonstrated strong customer loyalty and high customer value.
 - North America showed strong customer acquisition but comparatively weaker customer engagement and average customer value.
@@ -68,11 +68,11 @@ The VAR models incorporate relationships between bicycle sales and related gear 
 - Customer segmentation revealed substantial differences in spending, loyalty, and purchase frequency across markets.
 - Gears showed a positive relationship with several bicycle categories, suggesting potential cross-selling opportunities.
 
-## Tools & Techniques
+## 4. Tools & Techniques
 
 `Power BI` · `Data Visualization` · `Business Intelligence` · `K-Means Clustering` · `LRFM Analysis` · `Regression Analysis` · `ARIMA` · `VAR` · `Sales Forecasting`
 
-## Repository Structure
+## 5. Repository Structure
 
 ```text
 ├── PowerBI Dashboard.pbix
