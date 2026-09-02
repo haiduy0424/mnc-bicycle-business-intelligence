@@ -20,7 +20,7 @@ The analysis was designed to answer several key business questions:
 ### Sales Performance
 Evaluation of historical revenue, profitability, sales growth, product contribution, and changes in product mix across 2017–2019.
 
-The analysis identifies Mountain Bikes and newly introduced Touring Bikes as major contributors to the strong sales expansion observed in 2019. :contentReference[oaicite:0]{index=0}
+The analysis identifies Mountain Bikes and newly introduced Touring Bikes as major contributors to the strong sales expansion observed in 2019. 
 
 ### Product Portfolio Analysis
 Assessment of the company's strategic shift from high-end bicycles toward more affordable product segments, including its impact on sales volume, revenue, and profitability across different bike categories.
