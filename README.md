@@ -43,7 +43,7 @@ Customer behavior is analyzed using an extended LRFM framework:
 - **Frequency** — number of purchases
 - **Monetary** — total customer spending
 
-These variables are used as inputs for **K-Means clustering** to identify customer segments with different levels of loyalty, engagement, and profitability. :contentReference[oaicite:1]{index=1}
+These variables are used as inputs for **K-Means clustering** to identify customer segments with different levels of loyalty, engagement, and profitability.
 
 ### Sales Forecasting
 
