@@ -56,7 +56,7 @@ Methods include:
 - Residual and model diagnostic tests
 - Scenario-based forecasting
 
-The VAR models incorporate relationships between bicycle sales and related gear sales to improve the forecasting framework. :contentReference[oaicite:2]{index=2}
+The VAR models incorporate relationships between bicycle sales and related gear sales to improve the forecasting framework.
 
 ## 3. Key Business Insights
 
