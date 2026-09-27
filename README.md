@@ -43,7 +43,7 @@ Customer behavior is analyzed using an extended LRFM framework:
 - **Frequency** — number of purchases
 - **Monetary** — total customer spending
 
-These variables are used as inputs for **K-Means clustering** to identify customer segments with different levels of loyalty, engagement, and profitability.
+These variables are used as inputs for K-Means clustering to identify customer segments with different levels of loyalty, engagement, and profitability.
 
 ### 2.5. Sales Forecasting
 
@@ -51,8 +51,8 @@ The project also develops forecasting models for 2020 under different business s
 
 Methods include:
 
-- **ARIMA** for forecasting Gears & Outfits sales
-- **VAR models** for bike sales forecasting
+- ARIMA for forecasting Gears & Outfits sales
+- VAR models for bike sales forecasting
 - Residual and model diagnostic tests
 - Scenario-based forecasting
 
@@ -78,3 +78,7 @@ The VAR models incorporate relationships between bicycle sales and related gear 
 ├── PowerBI Dashboard.pbix
 ├── Report.pdf
 └── README.md
+
+## Disclaimer
+
+This project is intended for educational purposes only.
