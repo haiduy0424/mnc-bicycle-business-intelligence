@@ -17,15 +17,15 @@ The analysis was designed to answer several key business questions:
 
 ## 2. Key Areas of Analysis
 
-### 2.1. Sales Performance
+### 2.1 Sales Performance
 - Evaluation of historical revenue, profitability, sales growth, product contribution, and changes in product mix across 2017–2019.
 
 - The analysis identifies Mountain Bikes and newly introduced Touring Bikes as major contributors to the strong sales expansion observed in 2019. 
 
-### 2.2. Product Portfolio Analysis
+### 2.2 Product Portfolio Analysis
 - Assessment of the company's strategic shift from high-end bicycles toward more affordable product segments, including its impact on sales volume, revenue, and profitability across different bike categories.
 
-### 2.3. Regional Market Analysis
+### 2.3 Regional Market Analysis
 Comparison of business performance across:
 
 - North America
@@ -34,7 +34,7 @@ Comparison of business performance across:
 
 The analysis evaluates market size, sales growth, volatility, customer value, demographics, loyalty, and purchasing behavior.
 
-### 2.4. Customer Segmentation
+### 2.4 Customer Segmentation
 
 Customer behavior is analyzed using an extended LRFM framework:
 
@@ -45,7 +45,7 @@ Customer behavior is analyzed using an extended LRFM framework:
 
 These variables are used as inputs for K-Means clustering to identify customer segments with different levels of loyalty, engagement, and profitability.
 
-### 2.5. Sales Forecasting
+### 2.5 Sales Forecasting
 
 The project also develops forecasting models for 2020 under different business scenarios.
 
@@ -72,13 +72,14 @@ The VAR models incorporate relationships between bicycle sales and related gear 
 
 `Power BI` · `Data Visualization` · `Business Intelligence` · `K-Means Clustering` · `LRFM Analysis` · `Regression Analysis` · `ARIMA` · `VAR` · `Sales Forecasting`
 
-## 5. Repository Structure
-
-```text
-├── PowerBI Dashboard.pbix
-├── Report.pdf
-└── README.md
+## 5. Key Learnings
+- Data-Driven Decision-Making
+- Business Intelligence & Data Storytelling
+- Customer & Market Analytics
+- Sales Forecasting
 
 ## Disclaimer
 
 This project is intended for educational purposes only.
+
+
