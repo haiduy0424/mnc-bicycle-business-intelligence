@@ -1,6 +1,6 @@
 # Business Performance & Customer Insights Dashboard
 
-A data analytics and business intelligence project focused on evaluating sales performance, customer behavior, regional market dynamics, and future sales outlook for a multinational bicycle retailer.
+This project represents a data analytics and business intelligence project focused on evaluating sales performance, customer behavior, regional market dynamics, and future sales outlook for a multinational bicycle retailer.
 
 The project combines **Power BI visualization, customer segmentation, statistical analysis, and forecasting techniques** to transform historical business data into practical insights for strategic decision-making.
 
