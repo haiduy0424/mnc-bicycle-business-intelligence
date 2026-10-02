@@ -52,7 +52,7 @@ An end-to-end business intelligence project analysing the sales performance, cus
 
 `Power BI` · `Data Visualization` · `Business Intelligence` · `K-Means Clustering` · `LRFM Analysis` · `Robust Regression` · `ARIMA` · `VAR` · `Sales Forecasting`
 
-The full analytics package (data processing, Power BI dashboards, clustering, LRFM analysis, and ARIMA/VAR forecasting models) is available here: [https://drive.google.com/drive/folders/1hzDhRhYzrzrYT1BUBECiqntQKTsihzOA?usp=sharing](url)
+The full analytics package (data processing, Power BI dashboards, clustering, LRFM analysis, and ARIMA/VAR forecasting models) is available here: https://drive.google.com/drive/folders/1hzDhRhYzrzrYT1BUBECiqntQKTsihzOA?usp=sharing
 
 ## 5. Key Learnings
 
